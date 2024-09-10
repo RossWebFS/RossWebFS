@@ -24,6 +24,8 @@
 <img src="assets/react-query.svg" style="margin-top:10px; margin-left: 5px;" title="React Query" alt="React Query" width="52px">
 <img src="assets/zustand.png" style="margin-top:10px; margin-left: -10" title="Zustand" alt="Zustand" width="90px">
 <img src="assets/tailwind.png" style="margin-top:10px; margin-left: -25" title="TailwindCSS" alt="TailwindCSS" width="50px">
+<img src="assets/jest.png" style="margin-top:10px; margin-left: 5px" title="Jest" alt="Jest" width="44px">
+<img src="assets/react-testing-library.png" style="margin-top:10px; margin-left: 5px" title="React testing library" alt="React testing library" width="44px">
 </div>
 
 ---
